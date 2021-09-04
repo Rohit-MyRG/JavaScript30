@@ -9,3 +9,4 @@ Grab the course at https://JavaScript30.com
 
 
 ## Day 02 - CSS + JS Clock
+![image](https://user-images.githubusercontent.com/49193132/132088890-34e7dbbe-f0a1-4c22-8148-dfb98400347d.png)
