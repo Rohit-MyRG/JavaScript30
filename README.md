@@ -4,9 +4,12 @@ Build 30 things in 30 days using JavaScript
 
 Grab the course at https://JavaScript30.com
 
-## Day 01 - Drum Kit
+## Day-01 (Drum Kit)
 ![image](https://user-images.githubusercontent.com/49193132/132008828-7c2f687a-e03e-428a-a2e6-04bd9ea5fb74.png)
 
 
-## Day 02 - CSS + JS Clock
+## Day-02 (CSS + JS Clock)
 ![image](https://user-images.githubusercontent.com/49193132/132088890-34e7dbbe-f0a1-4c22-8148-dfb98400347d.png)
+
+## Day-03 (CSS Variables with JS)
+![image](https://user-images.githubusercontent.com/49193132/132137628-1fb95faa-52f5-41ab-85be-84f1734737ab.png)
