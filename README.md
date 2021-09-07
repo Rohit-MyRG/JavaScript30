@@ -13,3 +13,6 @@ Grab the course at https://JavaScript30.com
 
 ## Day-03 (CSS Variables with JS)
 ![image](https://user-images.githubusercontent.com/49193132/132137628-1fb95faa-52f5-41ab-85be-84f1734737ab.png)
+
+## Day-04 (04 Array Cardio Day 1)
+![image](https://user-images.githubusercontent.com/49193132/132363939-2bf63996-08e7-4b8c-9f34-ba6aede3b72a.png)
