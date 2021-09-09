@@ -16,3 +16,6 @@ Grab the course at https://JavaScript30.com
 
 ## Day-04 (04 Array Cardio Day 1)
 ![image](https://user-images.githubusercontent.com/49193132/132363939-2bf63996-08e7-4b8c-9f34-ba6aede3b72a.png)
+
+## Day-05 (Flex Panel Gallery)
+![image](https://user-images.githubusercontent.com/49193132/132742122-32a9f91b-fafc-4834-b8ce-943fad9abcd4.png)
